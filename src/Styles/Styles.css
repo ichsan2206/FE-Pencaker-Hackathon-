@@ -1,0 +1,356 @@
+
+.navbg{
+    background-color:rgba(0, 0, 0, 0) !important;
+    height: 10vh !important;
+}
+
+.groupnavmenu button{
+    background-color:rgba(0, 0, 0, 0) !important;
+    border-color: rgba(0, 0, 0, 0) !important;;
+    color: white;
+    font-weight: bold;
+
+}
+
+.groupnavmenu button:focus{
+    background-color: #CD2E71;
+    border-radius: 5px;
+}
+
+.Headers img{
+    width: 100% !important;
+    height: 250px !important;
+    position: relative;
+    object-position: center;
+    object-fit: cover;
+    opacity: 0.5;
+}
+
+.Footer button{
+    background-color: rgba(255, 195, 0, 1);
+    color: black;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.Footer{
+    background-image:url(../assets/footer.png);
+    width: 100%;
+    height: 200px;
+}
+
+.footerKontent{
+    justify-content: center;
+}
+
+.Footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    color: white;
+}
+.Headers{
+    text-align: center;
+}
+
+
+.Headers h1{
+    position: absolute;
+    color: white;
+    top: 100px;
+    right: 350px;
+    left: 350px;
+}
+
+.form input {
+    background: rgba(0, 22, 46, 1);
+    border: 3px solid rgba(4, 89, 182, 1);
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 100%;
+    color: #ffffff;
+}
+
+.Content{
+    width: 450px !important;
+    height: 152px;
+    background-color: rgba(0, 22, 46, 1);
+    border: 3px solid white;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 30px !important;
+}
+
+.ContainerContent{
+    padding-left: 200px;
+    padding-right: 200px;
+    min-height: 90vh;
+    width: 100;
+    margin: 0;
+}
+
+.Content img{
+    display: flex !important;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+.card-title-text{
+    margin-bottom: 0px;
+}
+
+
+.Company{
+    color: rgba(138, 138, 138, 1);  
+    font-size: 15px;
+    font-weight: bolder;
+    margin-bottom: 55px;
+}
+
+.history-card-text {
+    margin: 0;
+    font-size: 10px;
+}
+
+.rightContent button{
+    background-color: rgba(0, 22, 46, 1) !important;
+    color: rgba(255, 195, 0, 1);
+    border: 2px solid rgba(255, 195, 0, 1);
+    margin-top: 60px;
+    border-radius: 5px;
+}
+
+.location{
+    display: flex;
+    align-items: center;
+    color: black;
+    margin-right: 5px;
+    background-color:  #B6B6B6;
+    height:25px;
+    width: 100px;
+    font-size: 10px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.location p{
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.salery p{
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.salery{
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+    color: black;
+    height:25px;
+    width: 150px;
+    background-color:  #B6B6B6;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.bg-Modal{
+    background-color: rgba(0, 22, 46, 1) !important;
+    border: 3px solid rgba(4, 89, 182, 1);
+}
+
+.btn{
+    background-color: rgba(255, 195, 0, 1) !important;
+    color: black;
+    font-weight: bold;
+}
+
+.btnHere{
+    background-color:rgba(0, 22, 46, 1) !important;
+    border: rgba(0, 22, 46, 1) !important;;
+    color: rgba(255, 195, 0, 1);
+}
+
+.warning{
+    color: white;
+    text-align: center;
+}
+
+.CbRegister{
+    color: white;
+}
+
+.CbRegister p{
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.dropdown-toggle::after {
+    display: none !important; 
+}
+
+.dropdown-menu.show {
+    background-color:rgba(0, 22, 46, 1) !important;
+}
+
+.bg-content{
+    background-color:rgba(0, 0, 0, 0) !important;
+}
+
+.Company-content{
+    border: 1px solid white;
+}
+
+.tb-status-success{
+    color: green;
+    font-weight: bold;
+    }
+    
+.tb-status-pending{
+    color: yellow;
+    font-weight: bold;
+}
+    
+.tb-status-close{
+    color: red;
+    font-weight: bold;
+}
+
+.tb-status-active{
+    color: green;
+    font-weight: bold;
+    }
+    
+.tb-status-inactive{
+    color: red;
+    font-weight: bold;
+}
+    
+.tb-status-close{
+    color: red;
+    font-weight: bold;
+}
+
+.postAJob{
+    background-color: rgba(255, 195, 0, 1);
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: 90%;
+    border: rgba(0, 0, 0, 0) !important;;
+}
+
+.input-form{
+    background: rgba(0, 22, 46, 1) !important;
+    border: 3px solid rgba(4, 89, 182, 1);
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 100%;
+    color: #ffffff !important;   
+}
+
+.input-text-area{
+    background: rgba(0, 22, 46, 1) !important;
+    border: 3px solid rgba(4, 89, 182, 1);
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 100%;
+    color: #ffffff !important;  
+    height: 130px; 
+}
+
+.btn-submit{
+    background-color: rgba(255, 195, 0, 1) !important;
+    color: black;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 20px !important;
+    border-radius: 5px;
+}
+
+.btn-cancel{
+    background: rgba(0, 22, 46, 1) !important;
+    border: rgba(0, 22, 46, 1) !important;
+    color: red;
+    font-weight: bold;
+}
+
+.HeadersT img{
+    width: 100% !important;
+    height: 200px !important;
+    position: relative;
+    object-position: center;
+    object-fit: cover;
+    opacity: 0.5;   
+}
+
+.HeadersT h2 p{
+    color: white;
+}
+
+.HeadersT button{
+    background-color: rgba(0, 22, 46, 1) !important;
+    color: rgba(255, 195, 0, 1);
+    border: 2px solid rgba(255, 195, 0, 1);
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.card-title-text {
+    color: rgba(255, 195, 0, 1);
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+
+.profile-card-text {
+    color: white;
+    margin: 0;
+    font-size: 14px;
+}
+
+.profile-pict {
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 5px;
+}
+
+.btnEditProfile{
+    background-color: rgba(255, 195, 0, 1);
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: rgba(0, 0, 0, 0) !important;;   
+}
+
+.label-file-add-product {
+    background:  rgba(255, 195, 0, 1);
+    color: white;
+    padding: 0.5rem 1rem;
+    font-family: sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    margin-bottom: 10px;
+}
+
+.inputSeacrh::placeholder{
+    text-align: center !important;
+    font-weight: bold;
+}

@@ -1,0 +1,9 @@
+
+body {
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ background-image: linear-gradient(500deg, #001D3D 0%, rgba(0, 0, 0, 0) 100%) !important;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: 100% 550px;
+ background-color: #001D3D!important;
+}
